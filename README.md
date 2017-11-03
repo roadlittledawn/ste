@@ -5,11 +5,19 @@
 2. `bundle install`
 
 ## Running locally
+Generate an API key (anything will do), and assign it to an environment variable:
+```
+export API_KEY=<your key>
+```
+Start server with bundler and rack:
+
 ```
 bundle exec rackup
 ```
 
 ## Interface
+
+Requests shoud include the header `x-api-key` with the value set to your generated API key.
 
 Organizations:
 ```
