@@ -117,7 +117,8 @@ A **user** can be an organization `owner`, an organization `contact`, or an acco
      However, if desired, one should be able to 'connect' a subsidiary to to master parent record, if interested in treating the parent and subsidiary org as one.
 3. Use the `revenue` field from the `accounts` endpoint to create a support score for each organization.
     * The score should be numeric, starting at 1 for accounts that pay between $0-$50,000, 2 for $50,000-$100,000, etc..
-    * The support score of the parent orgs should include the revenue of subsidiary hierarchies. Subsidiary's score should only include revenue from their hierarchy. 
+    * The support score of the parent orgs should include the revenue of subsidiary hierarchies. Subsidiary's score should only include revenue from their hierarchy.
+4. Serialize the data structure(s) into a JSON object, and write it to a text file.
 
 ### Requirements:
 1. Written in ruby
