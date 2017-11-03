@@ -70,7 +70,7 @@ GET /users/id
 
 Users by org:
 ```
-GET /usrs/org/<org_id>
+GET /users/org/<org_id>
 
 [<int>user_id...]
 ```

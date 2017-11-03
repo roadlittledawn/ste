@@ -1,6 +1,7 @@
 require 'sinatra'
 require 'json'
 require 'rack/throttle'
+require 'multi_json'
 
 %w[lib].each { |dir| Dir.glob("./#{dir}/*.rb", &method(:require)) }
 
@@ -19,7 +20,7 @@ class DB
   end
 
   def get_org_by_id(id)
-    @orgs[id.to_i]
+    @orgs[id]
   end
 
   def get_accounts(page)
@@ -27,11 +28,13 @@ class DB
   end
 
   def get_account_by_id(id)
-    @accounts[id.to_i]
+    return nil unless @account_ids.include?(id)
+    @accounts[id-1]
   end
 
   def get_account_by_org_id(id)
-    @accounts.map { |a| a['id'] if a['org_id'] == id.to_i }.compact
+    return nil unless @org_ids.include?(id)
+    @accounts.map { |a| a['id'] if a['org_id'] == id }.compact
   end
 
   def get_users(page)
@@ -39,26 +42,31 @@ class DB
   end
 
   def get_users_by_id(id)
-    @users[id.to_i]
+    return nil unless @account_ids.include?(id)
+    @users[id-1]
   end
 
   def get_users_by_org(id)
+    return nil unless @orgs.key?(id.to_i)
     @users.map { |u| u['id'] if u['org_id'] == id.to_i }.compact
   end
 
   def get_admin_users_by_account(id)
+    return nil unless @org_ids.include?(id)
     @users.map do |u|
       next unless u['role'] == 'admin'
-      u['id'] if u['admin_accounts'].include?(id.to_i)
+      u['id'] if u['org_id'] == id
     end
   end
 
   private
 
   def get_page(page, object)
+    pages = (object.length / 10) - 1
+    return nil if page.negative? || page > pages
     { results: object[(page * 10)..((page+1)*10)-1],
       page: page,
-      pages: (object.length / 10) - 1 }
+      pages: pages }
   end
 
   def load_orgs
@@ -86,50 +94,63 @@ class MockApi < Sinatra::Application
 
   before do
     verify
+    halt 503, 'service unavailable' if rand(100) < 4
   end
 
   get '/orgs' do
     page = params[:page].to_i
-    db.get_orgs(page).to_json
+    results = db.get_orgs(page)
+    halt 404, 'not found' if results.nil?
+    results.to_json
   end
 
   get '/orgs/:id' do
-    id = params[:id]
-    db.get_org_by_id(id).to_json
+    results = db.get_org_by_id(params[:id].to_i)
+    halt 404, 'not found' if results.nil?
+    results.to_json
   end
 
   get '/accounts' do
     page = params[:page].to_i
-    db.get_accounts(page).to_json
+    results = db.get_accounts(page)
+    halt 404, 'not found' if results.nil?
+    results.to_json
   end
 
   get '/accounts/:id' do
-    id = params[:id]
-    db.get_account_by_id(id).to_json
+    results = db.get_account_by_id(params[:id].to_i)
+    halt 404, 'not found' if results.nil?
+    results.to_json
   end
 
   get '/accounts/org/:id' do
-    id = params[:id]
-    db.get_account_by_org_id(id).to_json
+    results = db.get_account_by_org_id(params[:id].to_i)
+    halt 404, 'not found' if results.nil?
+    results.to_json
   end
 
   get '/users' do
     page = params[:page].to_i
-    db.get_users(page).to_json
+    results = db.get_users(page)
+    halt 404, 'not found' if results.nil?
+    results.to_json
   end
 
   get '/users/:id' do
-    id = params[:id]
-    db.get_users_by_id(id).to_json
+    results = db.get_users_by_id(params[:id].to_i)
+    halt 404, 'not found' if results.nil?
+    results.to_json
   end
 
   get '/users/org/:id' do
-    id = params[:id]
-    db.get_users_by_org(id).to_json
+    results = db.get_users_by_org(params[:id].to_i)
+    halt 404, 'not found' if results.nil?
+    results.to_json
   end
 
   get '/users/org/:id/admin' do
-    id = params[:id]
-    db.get_admin_users_by_account(id).compact.to_json
+    results = db.get_admin_users_by_account(params[:id].to_i)
+    halt 404, 'not found' if results.nil?
+    results.compact.to_json
   end
 end
