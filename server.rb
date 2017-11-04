@@ -62,9 +62,9 @@ class DB
   private
 
   def get_page(page, object)
-    pages = (object.length / 10) - 1
+    pages = (object.length / 10)
     return nil if page.negative? || page > pages
-    { results: object[(page * 10)..((page+1)*10)-1],
+    { results: object[((page-1) * 10)..(page*10)-1],
       page: page,
       pages: pages }
   end
@@ -98,7 +98,7 @@ class MockApi < Sinatra::Application
   end
 
   get '/orgs' do
-    page = params[:page].to_i
+    page = params[:page]&.to_i || 1
     results = db.get_orgs(page)
     halt 404, 'not found' if results.nil?
     results.to_json
@@ -111,7 +111,7 @@ class MockApi < Sinatra::Application
   end
 
   get '/accounts' do
-    page = params[:page].to_i
+    page = params[:page]&.to_i || 1
     results = db.get_accounts(page)
     halt 404, 'not found' if results.nil?
     results.to_json
@@ -130,7 +130,7 @@ class MockApi < Sinatra::Application
   end
 
   get '/users' do
-    page = params[:page].to_i
+    page = params[:page]&.to_i || 1
     results = db.get_users(page)
     halt 404, 'not found' if results.nil?
     results.to_json
