@@ -42,7 +42,7 @@ class DB
   end
 
   def get_users_by_id(id)
-    return nil unless @account_ids.include?(id)
+    return nil unless @user_ids.include?(id)
     @users[id-1]
   end
 

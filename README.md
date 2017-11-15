@@ -85,8 +85,8 @@ GET /users/org/:org_id/admin
 **Organizations** can be of type `parent`, `subsidiary`, or `sole`:
 
 1. Sole organizations do not have parent or child organizations.
-2. A subsidiary organization is can have a parent account, and child accounts.
-4. A subsidiary operationally acts as a 'master' account to all of it's children.
+2. A subsidiary organization is can have a parent org, and child orgs.
+4. A subsidiary operationally acts as a 'master' org to all of it's children.
 
 **Accounts** are purchased services, by individual organizations. Revenue is yearly billings.
 
