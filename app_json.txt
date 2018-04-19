@@ -1,0 +1,8001 @@
+[
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 3834,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 16,
+    "org_id" => 16,
+    "revenue" => 582,
+    "name" => "Gibson-Leffler",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 4317,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 2568,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 640,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 3677,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 1122,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 2006,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 4697,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 4757,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 3760,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 854,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 4973,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 1084,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 2165,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 1889,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 512,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 702,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 1736,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 574,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 4982,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 1647,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 2813,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 4469,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 2779,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 1598,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 669,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 729,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 1570,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 1386,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 2892,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 2305,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 1864,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 4645,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 1635,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 1562,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 2683,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 3609,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 1079,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 4044,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 942,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 3024,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 2898,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 4982,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 1964,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 4797,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 1846,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 2754,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 2110,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 4414,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 1025,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 1722,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 3602,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 2400,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 4704,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 4259,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 2161,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 4659,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 1196,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 2123,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 2443,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 2504,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 3867,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 2032,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 822,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 4013,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 1531,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 1710,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 2173,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 3263,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 1695,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 3170,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 607,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 653,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 3657,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 4657,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 599,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 934,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 3802,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 1967,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 2185,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 1495,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 3593,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 2432,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 2744,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 966,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 4508,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 4992,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 2885,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 1706,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 1526,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 4184,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 4057,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 4807,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 1454,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 4425,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 4743,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 1948,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 1545,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 2248,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 1974,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 2549,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 851,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 1257,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 1392,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 1589,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 1614,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 873,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 1849,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 16,
+    "org_id" => 16,
+    "revenue" => 2536,
+    "name" => "Gibson-Leffler",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 4303,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 4076,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 4863,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 1538,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 815,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 2258,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 2351,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 3892,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 576,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 2622,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 3565,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 2201,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 1125,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 3170,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 944,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 16,
+    "org_id" => 16,
+    "revenue" => 3531,
+    "name" => "Gibson-Leffler",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 661,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 3690,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 1450,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 3985,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 3899,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 1091,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 2512,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 3035,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 3865,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 2181,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 1198,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 4900,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 4045,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 1117,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 3460,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 748,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 2470,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 1596,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 4760,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 965,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 4500,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 3131,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 2405,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 3914,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 1541,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 2786,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 617,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 3319,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 2393,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 3474,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 1370,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 687,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 3174,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 795,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 943,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 2050,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 2139,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 4552,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 1479,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 4165,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 2509,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 1570,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 4349,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 1311,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 1433,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 3126,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 2168,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 1038,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 1614,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 1569,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 4629,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 2659,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 4209,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 16,
+    "org_id" => 16,
+    "revenue" => 3955,
+    "name" => "Gibson-Leffler",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 2722,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 3937,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 1427,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 1013,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 1540,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 3055,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 2549,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 629,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 4161,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 2781,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 3221,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 16,
+    "org_id" => 16,
+    "revenue" => 1490,
+    "name" => "Gibson-Leffler",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 527,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 2936,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 2729,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 2625,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 4264,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 2919,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 4064,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 679,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 1174,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 16,
+    "org_id" => 16,
+    "revenue" => 4523,
+    "name" => "Gibson-Leffler",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 3319,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 4405,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 1407,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 2125,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 4740,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 637,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 3643,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 3721,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 3624,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 3465,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 4145,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 1860,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 3479,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 1468,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 4041,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 667,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 2050,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 665,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 1391,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 2683,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 1882,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 3680,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 3694,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 1551,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 3015,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 4033,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 1927,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 3529,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 4979,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 2534,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 3905,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 1370,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 2385,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 3303,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 1113,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 3521,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 1342,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 2650,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 727,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 2086,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 3203,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 1876,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 820,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 2784,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 4908,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 1396,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 2886,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 1919,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 1662,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 2087,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 2107,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 2816,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 1365,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 4183,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 875,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 710,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 1777,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 1167,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 1093,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 3270,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 3420,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 2252,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 3615,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 3402,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 1298,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 2684,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 4002,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 1016,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 3899,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 4252,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 4379,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 3751,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 3114,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 2260,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 2980,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 961,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 2818,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 3782,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 670,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 4205,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 1504,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 3204,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 3989,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 4838,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 4151,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 2387,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 4608,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 3496,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 2088,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 783,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 1530,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 4282,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 5000,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 3250,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 1755,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 1742,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 3359,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 1417,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 4949,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 1008,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 672,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 3806,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 4228,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 4665,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 3045,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 2118,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 3047,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 4659,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 2815,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 3620,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 4361,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 4369,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 3869,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 808,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 2854,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 3906,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 2797,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 878,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 1798,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 2938,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 1590,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 1277,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 1848,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 2280,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 3629,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 578,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 3335,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 3065,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 4857,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 3191,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 2592,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 4798,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 726,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 4843,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 3968,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 2259,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 2778,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 2167,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 1381,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 2704,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 2310,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 576,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 3751,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 2654,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 2683,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 4582,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 3262,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 572,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 3305,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 3604,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 868,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 2109,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 3219,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 3774,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 1621,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 4365,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 2618,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 2446,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 2309,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 2094,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 2144,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 1507,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 4764,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 4356,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 4974,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 2684,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 4616,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 4096,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 4269,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 4595,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 3853,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 2369,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 4030,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 3709,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 2673,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 810,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 678,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 3346,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 1492,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 1541,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 2745,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 2987,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 2017,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 1822,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 2860,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 1886,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 1741,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 3406,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 1761,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 952,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 3517,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 603,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 2385,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 1972,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 3538,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 4855,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 2131,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 4533,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 3795,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 4879,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 2713,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 2813,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 4399,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 3690,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 4871,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 3953,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 650,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 4668,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 3096,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 1818,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 869,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 1608,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 642,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 16,
+    "org_id" => 16,
+    "revenue" => 959,
+    "name" => "Gibson-Leffler",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 4492,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 3446,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 579,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 4019,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 503,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 4629,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 3850,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 3975,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 4053,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 1016,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 1828,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 3191,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 2000,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 3033,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 3204,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 4042,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 1248,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 4990,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 4607,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 1706,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 903,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 3241,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 2982,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 4076,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 4154,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 4622,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 3418,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 3837,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 1073,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 1491,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 4780,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 826,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 3223,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 3096,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 3708,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 4498,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 3057,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 1192,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 1679,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 1885,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 4925,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 958,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 2348,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 3388,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 4601,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 2130,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 3316,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 4842,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 3240,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 3109,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 3768,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 1311,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 4228,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 3365,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 4392,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 16,
+    "org_id" => 16,
+    "revenue" => 3536,
+    "name" => "Gibson-Leffler",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 1307,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 3026,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 2477,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 901,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 1357,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 3935,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 2800,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 1568,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 3753,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 1408,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 3038,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 2720,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 2325,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 2434,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 1005,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 1437,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 4188,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 3886,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 1590,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 2048,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 3290,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 3518,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 4288,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 1424,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 3508,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 4163,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 1749,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 4734,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 2391,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 4331,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 3428,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 4672,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 640,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 830,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 3479,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 1618,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 1271,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 2066,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 4161,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 2636,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 3195,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 2119,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 3775,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 3176,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 3598,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 4632,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 1828,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 1860,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 4210,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 4129,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 2927,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 1256,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 3079,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 1213,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 1125,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 885,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 517,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 845,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 2030,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 1679,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 1175,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 2745,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 4701,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 1236,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 1079,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 4648,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 4770,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 2048,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 4776,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 3947,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 3765,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 1102,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 4243,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 2392,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 3855,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 1591,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 1448,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 16,
+    "org_id" => 16,
+    "revenue" => 4739,
+    "name" => "Gibson-Leffler",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 909,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 2701,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 4270,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 16,
+    "org_id" => 16,
+    "revenue" => 3116,
+    "name" => "Gibson-Leffler",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 750,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 2914,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 4051,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 4548,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 4422,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 2975,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 3486,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 958,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 2462,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 4377,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 817,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 4324,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 1193,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 525,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 4425,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 3736,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 4622,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 1509,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 891,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 2859,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 3993,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 1675,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 3249,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 3640,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 1504,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 1409,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 4560,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 1832,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 1949,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 1482,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 686,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 2420,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 2242,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 4775,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 1467,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 2857,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 1308,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 2067,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 3574,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 1550,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 1673,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 2859,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 3103,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 3877,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 1353,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 3138,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 1182,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 4230,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 4398,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 4994,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 2092,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 4476,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 4180,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 1335,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 608,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 1077,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 2169,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 4485,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 2532,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 4391,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 4535,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 910,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 4820,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 986,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 3136,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 4544,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 2040,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 4218,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 2529,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 3056,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 2402,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 4865,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 4337,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 2641,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 718,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 4023,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 993,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 4803,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 4292,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 1858,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 1699,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 1260,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 3089,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 4466,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 1602,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 2399,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 746,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 1088,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 3712,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 3292,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 3184,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 4042,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 538,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 3728,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 3275,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 3173,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 1632,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 16,
+    "org_id" => 16,
+    "revenue" => 2443,
+    "name" => "Gibson-Leffler",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 564,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 4384,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 3527,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 2496,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 2468,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 646,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 545,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 4233,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 3433,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 1326,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 585,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 2149,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 517,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 4248,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 1376,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 1225,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 2291,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 4873,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 4248,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 2075,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 3889,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 1579,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 1980,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 3147,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 1817,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 2937,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 3579,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 3955,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 3092,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 3294,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 3890,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 2595,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 3044,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 3145,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 2130,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 1502,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 2047,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 935,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 954,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 4469,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 4848,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 1754,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 3474,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 4404,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 2341,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 1588,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 2726,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 2975,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 1455,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 3650,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 3609,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 3887,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 1705,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 4513,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 4117,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 4910,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 2956,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 4932,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 4374,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 2030,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 1840,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 3465,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 666,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 3311,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 2211,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 4766,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 2112,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 3069,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 2414,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 2374,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 4200,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 1012,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 4392,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 3984,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 2922,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 1123,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 658,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 2204,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 4869,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 3511,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 4190,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 2773,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 4832,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 1558,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 1546,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 2592,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 1622,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 1688,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 4829,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 3186,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 1818,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 3384,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 4868,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 4200,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 3534,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 1302,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 4871,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 586,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 2709,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 2251,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 2268,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 3362,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 2510,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 4608,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 2312,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 2136,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 2525,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 1391,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 1276,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 2053,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 2829,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 1864,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 4002,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 1407,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 1428,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 4994,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 1651,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 3977,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 4136,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 3898,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 796,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 3049,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 699,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 1704,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 2719,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 2055,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 2337,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 4443,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 729,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 576,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 3928,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 585,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 2219,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 4035,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 3290,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 4769,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 1292,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 3947,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 2593,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 20,
+    "org_id" => 20,
+    "revenue" => 805,
+    "name" => "Cruickshank-Doyle",
+    "parent_id" => 27,
+    "type" => "parent"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 932,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 4657,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 2785,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 2969,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 946,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 1162,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 834,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 2804,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 2555,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 1832,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 4858,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 592,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 3057,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 1390,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 1561,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 2119,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 4412,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 1403,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 1982,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 3936,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 828,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 973,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 3590,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 3274,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 1466,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 2413,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 2459,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 4292,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 4456,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 4707,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 3643,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 939,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 766,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 3116,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 3446,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 878,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 4015,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 3856,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 2041,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 2316,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 4613,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 3471,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 2443,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 2244,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 3206,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 3354,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 4444,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 1019,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 4266,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 3739,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 2908,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 3056,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 2007,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 1030,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 4573,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 1819,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 3122,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 4886,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 1494,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 4973,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 2251,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 664,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 3796,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 4910,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 2256,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 2216,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 3347,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 2444,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 3631,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 2953,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 16,
+    "org_id" => 16,
+    "revenue" => 2231,
+    "name" => "Gibson-Leffler",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 3448,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 21,
+    "org_id" => 21,
+    "revenue" => 1060,
+    "name" => "Schuppe and Sons",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 4923,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 1801,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 1598,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 2390,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 860,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 1277,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 16,
+    "org_id" => 16,
+    "revenue" => 666,
+    "name" => "Gibson-Leffler",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 2353,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 2343,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 1432,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 3088,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 15,
+    "org_id" => 15,
+    "revenue" => 935,
+    "name" => "Brakus LLC",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 1243,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 3335,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 1445,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 1725,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 1697,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 4932,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 2311,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 2734,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 4738,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 1975,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 3940,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 2412,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 2776,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 3973,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 27,
+    "org_id" => 27,
+    "revenue" => 541,
+    "name" => "Harvey, Dicki and Streich",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 4013,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 4568,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 2063,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 2673,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 1159,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 710,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 3351,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 2962,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 4251,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 1381,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 1124,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 32,
+    "org_id" => 32,
+    "revenue" => 2806,
+    "name" => "Bergnaum-Kessler",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 39,
+    "org_id" => 39,
+    "revenue" => 2360,
+    "name" => "Buckridge and Sons",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 2407,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 3974,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 1053,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 3286,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 3826,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 3752,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 29,
+    "org_id" => 29,
+    "revenue" => 3429,
+    "name" => "Hilpert, Corwin and Hudson",
+    "parent_id" => 31,
+    "type" => "parent"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 3528,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 3932,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 4,
+    "org_id" => 4,
+    "revenue" => 3722,
+    "name" => "Franecki-Schneider",
+    "parent_id" => 22,
+    "type" => "subsidiary"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 3351,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 40,
+    "org_id" => 40,
+    "revenue" => 3741,
+    "name" => "Mertz and Sons",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 3849,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 1066,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 1296,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 627,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 778,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 2254,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 2721,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 2681,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 2354,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 546,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 4847,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 937,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 34,
+    "org_id" => 34,
+    "revenue" => 1126,
+    "name" => "Weissnat-Schmeler",
+    "parent_id" => 18,
+    "type" => "parent"
+},
+{
+    "id" => 6,
+    "org_id" => 6,
+    "revenue" => 4272,
+    "name" => "Kemmer-Shanahan",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 2285,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 842,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 972,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 2247,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 3951,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 3982,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 16,
+    "org_id" => 16,
+    "revenue" => 4222,
+    "name" => "Gibson-Leffler",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 1,
+    "org_id" => 1,
+    "revenue" => 3516,
+    "name" => "Daugherty-O'Conner",
+    "parent_id" => 38,
+    "type" => "subsidiary"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 2680,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 843,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 23,
+    "org_id" => 23,
+    "revenue" => 2337,
+    "name" => "Nienow-Koelpin",
+    "parent_id" => 32,
+    "type" => "parent"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 1292,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 13,
+    "org_id" => 13,
+    "revenue" => 928,
+    "name" => "Wolff-Schoen",
+    "parent_id" => 10,
+    "type" => "subsidiary"
+},
+{
+    "id" => 8,
+    "org_id" => 8,
+    "revenue" => 3987,
+    "name" => "Greenholt, Schaefer and Sanford",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 858,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 1757,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 17,
+    "org_id" => 17,
+    "revenue" => 3210,
+    "name" => "O'Conner, McKenzie and Sawayn",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 3,
+    "org_id" => 3,
+    "revenue" => 1887,
+    "name" => "Fahey, Stracke and Koss",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 4333,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 4567,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 4802,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 2447,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 2789,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 3713,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 1560,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 800,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 2793,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 3646,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 31,
+    "org_id" => 31,
+    "revenue" => 1813,
+    "name" => "Frami Inc",
+    "parent_id" => 28,
+    "type" => "parent"
+},
+{
+    "id" => 26,
+    "org_id" => 26,
+    "revenue" => 3943,
+    "name" => "Walsh LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 2785,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 3061,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 2104,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 2024,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 11,
+    "org_id" => 11,
+    "revenue" => 3945,
+    "name" => "Okuneva-Koss",
+    "parent_id" => 34,
+    "type" => "subsidiary"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 4512,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 7,
+    "org_id" => 7,
+    "revenue" => 3438,
+    "name" => "Kuhic Group",
+    "parent_id" => 37,
+    "type" => "parent"
+},
+{
+    "id" => 28,
+    "org_id" => 28,
+    "revenue" => 2927,
+    "name" => "Reinger, Robel and Langworth",
+    "parent_id" => 14,
+    "type" => "subsidiary"
+},
+{
+    "id" => 36,
+    "org_id" => 36,
+    "revenue" => 4421,
+    "name" => "Weber-Hessel",
+    "parent_id" => 26,
+    "type" => "subsidiary"
+},
+{
+    "id" => 37,
+    "org_id" => 37,
+    "revenue" => 1463,
+    "name" => "Padberg LLC",
+    "parent_id" => 4,
+    "type" => "subsidiary"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 1405,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 4847,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 24,
+    "org_id" => 24,
+    "revenue" => 3066,
+    "name" => "Green-Mohr",
+    "parent_id" => 39,
+    "type" => "parent"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 3238,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 35,
+    "org_id" => 35,
+    "revenue" => 3519,
+    "name" => "Koelpin, Will and Sipes",
+    "parent_id" => 15,
+    "type" => "subsidiary"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 1674,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 10,
+    "org_id" => 10,
+    "revenue" => 2112,
+    "name" => "Stiedemann-Mante",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 3032,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 1022,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 979,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 4092,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 22,
+    "org_id" => 22,
+    "revenue" => 4073,
+    "name" => "Marquardt-Hand",
+    "parent_id" => 24,
+    "type" => "subsidiary"
+},
+{
+    "id" => 9,
+    "org_id" => 9,
+    "revenue" => 1073,
+    "name" => "Nienow, D'Amore and Goldner",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 14,
+    "org_id" => 14,
+    "revenue" => 3450,
+    "name" => "Hauck-Kris",
+    "parent_id" => 30,
+    "type" => "subsidiary"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 3603,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 30,
+    "org_id" => 30,
+    "revenue" => 2913,
+    "name" => "Lakin-MacGyver",
+    "parent_id" => 40,
+    "type" => "parent"
+},
+{
+    "id" => 33,
+    "org_id" => 33,
+    "revenue" => 2850,
+    "name" => "Pollich LLC",
+    "parent_id" => 39,
+    "type" => "subsidiary"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 1737,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 2,
+    "org_id" => 2,
+    "revenue" => 967,
+    "name" => "Marks Inc",
+    "parent_id" => 6,
+    "type" => "subsidiary"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 2676,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 5,
+    "org_id" => 5,
+    "revenue" => 1394,
+    "name" => "Mueller Inc",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 4261,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 19,
+    "org_id" => 19,
+    "revenue" => 2578,
+    "name" => "Lemke-Mills",
+    "parent_id" => nil,
+    "type" => "sole"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 4482,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 4999,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 25,
+    "org_id" => 25,
+    "revenue" => 4177,
+    "name" => "Sawayn, Murazik and Herman",
+    "parent_id" => 20,
+    "type" => "parent"
+},
+{
+    "id" => 38,
+    "org_id" => 38,
+    "revenue" => 1767,
+    "name" => "Nikolaus Inc",
+    "parent_id" => 2,
+    "type" => "subsidiary"
+},
+{
+    "id" => 18,
+    "org_id" => 18,
+    "revenue" => 2120,
+    "name" => "Lueilwitz-Nader",
+    "parent_id" => nil,
+    "type" => "parent"
+},
+{
+    "id" => 12,
+    "org_id" => 12,
+    "revenue" => 1100,
+    "name" => "Sipes, Parisian and Schinner",
+    "parent_id" => 21,
+    "type" => "parent"
+}]

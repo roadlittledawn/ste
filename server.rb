@@ -90,12 +90,12 @@ end
 
 class MockApi < Sinatra::Application
   db = DB.new
-  use Rack::Throttle::Minute, max: 30, message: 'Rate Limit Exceeded: 30 cpm'
+  # use Rack::Throttle::Minute, max: 5000, message: 'Rate Limit Exceeded: 5000 cpm'
 
-  before do
-    verify
-    halt 503, 'service unavailable' if rand(100) < 4
-  end
+  # before do
+  #   verify
+  #   halt 503, 'service unavailable' if rand(100) < 4
+  # end
 
   get '/orgs' do
     page = params[:page]&.to_i || 1
